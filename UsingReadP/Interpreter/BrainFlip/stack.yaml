@@ -1,0 +1,11 @@
+resolver: lts-8.15
+packages:
+- '.'
+extra-deps:
+- Stream-0.4.7.2
+- lazysmallcheck-0.6
+
+
+flags: {}
+
+extra-package-dbs: []
